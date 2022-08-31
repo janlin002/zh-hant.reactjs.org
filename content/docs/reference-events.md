@@ -149,7 +149,7 @@ DOMEventTarget relatedTarget
 
 #### onFocus {#onfocus}
 
-`onFocus` 事件將會在元素 (或是元素裡面的元素) 獲得焦點時執行，舉例來說, 下方的 `onFocus` 事件會在當使用者點擊一個 input 時觸發。
+`onFocus` 事件將會在元素 (或是元素裡面的元素) 獲得焦點時執行，舉例來說，下方的 `onFocus` 事件會在當使用者點擊一個 input 時觸發。
 
 ```javascript
 function Example() {
